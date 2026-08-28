@@ -7,9 +7,9 @@ reveals, animated stat counters, and the contact form) is hand-written JS.
 The contact form sends mail client-side via **EmailJS** — no backend
 required.
 
-[Nova hero preview](screenshots/01-hero.png)
+![Nova hero preview](screenshots/01-hero.png)
 
-[Nova hero preview](screenshots/05-contact.png)
+![Nova hero preview](screenshots/05-contact.png)
 
 ## Stack
 
